@@ -8,6 +8,6 @@ Về cấu trúc thiết kế framework:
 6. Data: Chứa file quản lý data của từng dự án chạy auto (Hiện đang dùng file Json).
 7. environmentConfig: Chứa Cấu hình từng môi trường test khác nhau.
 8. extentV5: Chứa file html report sau mỗi lần chạy automation test.
-
+Lưu ý: Do đây chỉ là framework demo nên sẽ không đầy đủ full code mong mn thông cảm
 Trên đây là thông tin về cấu trúc framework automation test mà Leon đã build dựa trên kiến thức và kinh nghiệm của mình. Mọi thắc mắc có thể liên hệ về email: leon.kieu@gmail.com 
 or Phone: 0945696835
